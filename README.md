@@ -1,0 +1,1 @@
+# The code has one method called getDurationString, who is overloaded and is executing two functions, in the first one he is accepting two values, the first is in minutes and the second is in seconds, the overloaded method accepts only one method which will be in seconds
